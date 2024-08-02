@@ -1,1 +1,1 @@
-# CS19541-CN
+# CS19541-CN Lab exercises
